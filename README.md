@@ -125,7 +125,15 @@ Typical performance on Mac M1/M2:
 ---
 
 ## 📸 Example Output
-
+---
+## first run
+<img width="512" height="512" alt="output_1" src="https://github.com/user-attachments/assets/bdb27c78-8d52-4181-a312-c16fb492962b" />
+## second run
+<img width="768" height="512" alt="cyberpunk_44" src="https://github.com/user-attachments/assets/96109df9-37ae-4dc1-bea0-b24e7d69de27" />
+## third run
+<img width="768" height="512"<img width="832" height="512" alt="cyberpunk_43 3" src="https://github.com/user-attachments/assets/0052aeac-9292-4bf8-b992-213976901ba5" />
+## fourth run
+<img width="832" height="512" alt="cyberpunk_43 3" src="https://github.com/user-attachments/assets/fa62d69d-381f-44e6-a7d4-e589ef6a9636" />
 
 ---
 
