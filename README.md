@@ -129,17 +129,16 @@ Typical performance on Mac M1/M2:
 
 
 
-## first rub 
-First Run
+## first run
 <img width="512" height="512" alt="output_0" src="https://github.com/user-attachments/assets/2f19be72-154f-4712-bc23-5683ed639464" />
 
-Second Run
+## Second run
 <img width="768" height="512" alt="cyberpunk_44" src="https://github.com/user-attachments/assets/20dee3dd-2739-4027-8891-7e7dc48375b2" />
 
-Third Run
+## Third run
 <img width="768" height="512" alt="cyberpunk_42 2" src="https://github.com/user-attachments/assets/4c9b79f2-f167-4760-afaa-b78faf1dae9d" />
 
-Fourth Run
+## Fourth run
 <img width="832" height="512" alt="cyberpunk_43 3" src="https://github.com/user-attachments/assets/ae5dfe07-88ab-4fa4-a083-271ee83903c7" />
 
 ---
