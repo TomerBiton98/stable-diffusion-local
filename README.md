@@ -126,14 +126,21 @@ Typical performance on Mac M1/M2:
 
 ## 📸 Example Output
 ---
-## first run
-<img width="512" height="512" alt="output_1" src="https://github.com/user-attachments/assets/bdb27c78-8d52-4181-a312-c16fb492962b" />
-## second run
-<img width="768" height="512" alt="cyberpunk_44" src="https://github.com/user-attachments/assets/96109df9-37ae-4dc1-bea0-b24e7d69de27" />
-## third run
-<img width="768" height="512"<img width="832" height="512" alt="cyberpunk_43 3" src="https://github.com/user-attachments/assets/0052aeac-9292-4bf8-b992-213976901ba5" />
-## fourth run
-<img width="832" height="512" alt="cyberpunk_43 3" src="https://github.com/user-attachments/assets/fa62d69d-381f-44e6-a7d4-e589ef6a9636" />
+
+
+
+## first rub 
+First Run
+<img width="512" height="512" alt="output_0" src="https://github.com/user-attachments/assets/2f19be72-154f-4712-bc23-5683ed639464" />
+
+Second Run
+<img width="768" height="512" alt="cyberpunk_44" src="https://github.com/user-attachments/assets/20dee3dd-2739-4027-8891-7e7dc48375b2" />
+
+Third Run
+<img width="768" height="512" alt="cyberpunk_42 2" src="https://github.com/user-attachments/assets/4c9b79f2-f167-4760-afaa-b78faf1dae9d" />
+
+Fourth Run
+<img width="832" height="512" alt="cyberpunk_43 3" src="https://github.com/user-attachments/assets/ae5dfe07-88ab-4fa4-a083-271ee83903c7" />
 
 ---
 
