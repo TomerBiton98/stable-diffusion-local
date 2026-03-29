@@ -22,7 +22,7 @@ HEIGHT = 512
 print(f"Device : {DEVICE}")
 print(f"Canvas : {WIDTH}×{HEIGHT}  |  Steps: {STEPS}  |  CFG: {CFG}")
 
-# ── Pipeline
+#  Pipeline
 pipe = StableDiffusionPipeline.from_pretrained(
     MODEL_ID,
     torch_dtype=DTYPE,
@@ -68,7 +68,7 @@ negative_prompt = (
     "text, watermark, logo, frame, border, people close-up, portrait, character focus"
 )
 
-# ── Generate 
+#  Generate 
 print(f"Generating {N_IMAGES} images...")
 
 # One generator per image gives cleaner
